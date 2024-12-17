@@ -2,7 +2,6 @@
 
 - 👋 I'm a software engineer
 - 🏠 I live in Yemen - Mukalla.
-- 🌱 I’m currently learning.
 - 💬 Ask me about PHP LARAVEL.
 - 📫 How to reach me: linkedin:m.https://www.linkedin.com/in/mohammed-bin-abodan-aljabri-371375265/
 - 📱 Phone Number :00967777837884 , whatsapp :00967715770873
